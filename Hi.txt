@@ -1,0 +1,4 @@
+Hello, dear students!
+Today is Git Class!
+Hava a good practice!
+Bye!
